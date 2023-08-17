@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyProject",
+			"Path": "C:\\Users\\JT\\Documents\\Unreal Projects\\SplatterBallGulick\\Source\\MyProject\\MyProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyProjectEditor",
+			"Path": "C:\\Users\\JT\\Documents\\Unreal Projects\\SplatterBallGulick\\Source\\MyProject\\MyProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\JT\\Documents\\Unreal Projects\\SplatterBallGulick\\Source\\MyProject\\MyProject.Build.cs",
+		"C:\\Users\\JT\\Documents\\Unreal Projects\\SplatterBallGulick\\Plugins\\RuntimeMeshComponent\\Source\\RuntimeMeshComponent\\RuntimeMeshComponent.Build.cs",
+		"C:\\Users\\JT\\Documents\\Unreal Projects\\SplatterBallGulick\\Plugins\\RuntimeMeshComponent\\Source\\RuntimeMeshComponentEditor\\RuntimeMeshComponentEditor.Build.cs",
+		"C:\\Users\\JT\\Documents\\Unreal Projects\\SplatterBallGulick\\Plugins\\ToonShaderPlugin\\Source\\ToonShaderPlugin\\ToonShaderPlugin.Build.cs",
+		"C:\\Users\\JT\\Documents\\Unreal Projects\\SplatterBallGulick\\Source\\MyProject\\MyProject.Target.cs",
+		"C:\\Users\\JT\\Documents\\Unreal Projects\\SplatterBallGulick\\Source\\MyProject\\MyProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

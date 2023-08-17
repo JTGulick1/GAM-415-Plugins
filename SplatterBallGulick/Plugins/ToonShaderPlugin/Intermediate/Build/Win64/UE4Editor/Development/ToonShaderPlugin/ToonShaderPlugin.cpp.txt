@@ -1,0 +1,2 @@
+C:\Users\JT\Documents\Unreal Projects\SplatterBallGulick\Plugins\ToonShaderPlugin\Intermediate\Build\Win64\UE4Editor\Development\ToonShaderPlugin\Definitions.ToonShaderPlugin.h
+C:\Users\JT\Documents\Unreal Projects\SplatterBallGulick\Plugins\ToonShaderPlugin\Source\ToonShaderPlugin\Public\ToonShaderPlugin.h
